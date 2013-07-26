@@ -1,4 +1,4 @@
-=== WP Deploy ===
+=== WP Git Deploy ===
 
 Contributors: vmassuchetto
 Donate link: http://vmassuchetto.wordpress.com
